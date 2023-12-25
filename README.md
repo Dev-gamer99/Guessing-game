@@ -1,2 +1,2 @@
-# Guessing-game
-This is a guessing made made on python.
+# Repository of games on python
+This is a repo about games made on python.
