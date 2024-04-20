@@ -1,0 +1,10 @@
+>>> # Getting a random color
+>>> colors = ["red", "yellow", "blue", "green", "orange", "purple", "white", "gray"]
+>>> random.choice(colors)
+'orange'
+>>> random.choice(colors)
+'blue'
+>>> random.choice(colors)
+'white'
+>>> random.choice(colors)
+'purple'
